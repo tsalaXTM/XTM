@@ -1,13 +1,13 @@
 Spanish
-El hardware inal·mbrico no autorizado se puede introducir f·cilmente. Los puntos de
-acceso inal·mbricos son relativamente poco costosos y se implementan f·cilmente. Un
-equipo de asesores bienintencionado que trabaja en una sala de conferencias podrÌa
-instalar un punto de acceso inal·mbrico para compartir un solo puerto cableado en la sala.
-Un hacker malicioso puede sentarse en un cafÈ con un ordenador port·til habilitado para
-uso inal·mbrico buscando tr·fico no cifrado o cifrado con WEP. En ambos casos, se
+El hardware inal√°mbrico no autorizado se puede introducir f√°cilmente. Los puntos de
+acceso inal√°mbricfos son relativamente poco costosos y se implementan f√°cilmente. Un
+equipo de asesores bienintencionado que trabaja en una sala de conferencias podr√≠a
+instalar un punto de acceso inal√°mbrico para compartir un solo puerto cableado en la sala.
+Un hacker malicioso puede sentarse en un caf√© con un ordenador port√°til habilitado para
+uso inal√°mbrico buscando tr√°fico no cifrado o cifrado con WEP. En ambos casos, se
 presentan riesgos inaceptables. Independientemente de si hay un intento malicioso, la
-introducciÛn de hardware no autorizado puede comprometer la confidencialidad e
-integridad del tr·fico de red. Los dispositivos inal·mbricos no autorizados pueden
-detectarse al examinar fÌsicamente las instalaciones (pr·ctica conocida como ìguerra
-mÛvilî), al utilizar esc·neres de radiofrecuencia (RF) para determinar la ubicaciÛn de los
-dispositivos inal·mbricos o al usar sistemas diseÒado
+introducci√≥n de hardware no autorizado puede comprometer la confidencialidad e
+integridad del tr√°fico de red. Los dispositivos inal√°mbricos no autorizados pueden
+detectarse al examinar f√≠sicamente las instalaciones (pr√°ctica conocida como ‚Äúguerra
+m√≥vil‚Äù), al utilizar esc√°neres de radiofrecuencia (RF) para determinar la ubicaci√≥n de los
+dispositivos inal√°mbricos o al usar sistemas dise√±ado
