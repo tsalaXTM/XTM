@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2013, v.4002-->
+<!DOCTYPE concept PUBLIC "-//Juniper Networks//DTD Jbook Topic Collections//EN"
+ "file://///cmsxml/IWServer/default/main/TechPubsWorkInProgress/STAGING/bin/dtds/jtopics/jtopics.dtd" [
+<!ENTITY fig-alarm-relay-contact '<test a="b">'>
+]>
+<concept id="hw-alarm-relay-contacts" topic-id="23098"
+xmlns:atict="http://www.arbortext.com/namespace/atict">
+<title>MX240 Alarm Relay Contacts on the Craft Interface</title>
+</concept>
